@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    
+
+}
+
+body{
+    background-color: lightblue;
+}
+
+.presentacion{
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+}
+
+.number{
+    text-align: center;
+}
+
+.correo{
+    text-align: center;
+}
+
+.image-container{
+
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.imagen{
+    max-width: 200px;
+    border-radius: 50px;
+}
+
+.footer-container{
+    background-color: darkseagreen;
+    max-width: 200%;
+    padding-bottom: 10px;
+}
+
+.FB{
+    max-width: 50px;
+    
+}
+
+.insta{
+    max-width: 50px;
+
+}
+
+.twits{
+
+    max-width: 50px;
+}
+
+.hobies{
+    text-align: center;
+}    
+
+.gif{
+    margin-top: 20px;
+}
+
+.marca_registrada{
+
+    text-align: center;
+    font-size:larger;
+}
+
